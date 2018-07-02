@@ -9,3 +9,6 @@ Hello Git
 Hello
 
 Test Version Confict local
+
+Test Version Conflict Remote
+
