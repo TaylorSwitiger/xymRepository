@@ -12,3 +12,4 @@ Test Version Confict local
 
 Test Version Conflict Remote
 
+Hello memeber B
